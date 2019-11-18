@@ -1,3 +1,4 @@
+#!/bin/bash
 #Pull base image
 
 FROM resin/rpi-raspbian  as build_env
